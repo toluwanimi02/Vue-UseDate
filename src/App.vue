@@ -84,7 +84,7 @@ export default {
   padding: 15px;
 }
 body {
-  background-color: #8cbbbb;
+  background-color: #ffff;
   font-size: 30px;
   font-family:Arial, Helvetica, sans-serif;
   padding: 10px;
